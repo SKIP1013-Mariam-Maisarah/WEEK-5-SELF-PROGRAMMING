@@ -1,0 +1,21 @@
+package selfProgramming;
+
+public class Exercise2 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		double a = 5.0;
+		double b = 11.0;
+		double total;
+		
+		total = a + b;
+	
+		if (total > 10.0)
+		{
+			System.out.println("Error!!");
+		}
+
+	}
+
+}
