@@ -1,0 +1,16 @@
+package selfProgramming;
+
+public class Exercise4 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		double income = 3000;
+		int age = 49;
+		
+		if ((income > 2000) && (age < 50))
+			System.out.println("Can apply loan");
+		
+	}
+
+}
